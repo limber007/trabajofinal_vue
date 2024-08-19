@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Electronica"
+    },
+    {
+      "id": "2",
+      "name": "Ropa"
+    },
+    {
+      "id": "c449",
+      "name": "Comida"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Laptop",
+      "price": 1200,
+      "categoryId": 1
+    },
+    {
+      "id": "2",
+      "name": "Camiseta",
+      "price": 20,
+      "categoryId": 2
+    },
+    {
+      "id": "0a06",
+      "name": "Pollo",
+      "price": 35,
+      "categoryId": "c449"
+    }
+  ]
+}
